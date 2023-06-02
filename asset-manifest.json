@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TodoFormNew/static/css/main.955c274c.css",
+    "main.js": "/TodoFormNew/static/js/main.9257a008.js",
+    "index.html": "/TodoFormNew/index.html",
+    "static/media/delete.svg": "/TodoFormNew/static/media/delete.d9c7e0eeb3f573572e1521b7b69ed33e.svg",
+    "static/media/check.svg": "/TodoFormNew/static/media/check.af03c9a6a0411e40578874e6f00e807b.svg",
+    "main.955c274c.css.map": "/TodoFormNew/static/css/main.955c274c.css.map",
+    "main.9257a008.js.map": "/TodoFormNew/static/js/main.9257a008.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.955c274c.css",
+    "static/js/main.9257a008.js"
+  ]
+}

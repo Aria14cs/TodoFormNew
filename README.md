@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # Introducción a React.js en Platzi
-=======
-#  Introducción a React.js en Platzi
->>>>>>> 1b3776c3075bca57963da99e668bf4044405413d
+ Visualizacion de proyecto terminado (https://aria14cs.github.io/TodoFormNew/)
 
  Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
 

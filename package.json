@@ -12,8 +12,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "preploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -33,7 +33,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "htts://Aria14cs.github.io/curso-react-intro",
+  "homepage": "htts://Aria14cs.github.io/TodoFormNew",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
